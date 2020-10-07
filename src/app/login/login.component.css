@@ -1,0 +1,17 @@
+input{
+    display: block;
+    width: 90%;
+    margin: auto;
+    margin-top: 3%;
+}
+
+button{
+    display: block;
+    width: 90%;
+    margin: auto;
+    margin-top: 3%;
+}
+
+#input{
+  margin-top: 60%;
+}
